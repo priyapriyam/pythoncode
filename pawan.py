@@ -1,0 +1,4 @@
+print 759475
+print 344657
+print 354656
+print 345678
